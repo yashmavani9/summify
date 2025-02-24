@@ -1,8 +1,6 @@
-# React + Vite
+# Summify
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Transform lengthy articles into short, easy-to-read summaries. Let AI simplify your reading experience.
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/ea52a03c-34c9-4115-b147-6d7c4e7b5efc)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
