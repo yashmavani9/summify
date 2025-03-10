@@ -19,7 +19,7 @@ const App = () => {
       </main>
       <footer className="opacity-90 text-center pt-8 pb-6">
         <h2 className="desc2">
-          <span className="desc22"><a href="https://yashmavani.framer.website/">Yash Mavani</a></span> Production
+          <span className="desc22"><a href="https://yashmavani.tech">Yash Mavani</a></span> Production
         </h2>
       </footer>
     </div>
